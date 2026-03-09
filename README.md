@@ -1,16 +1,60 @@
-## Hi there 👋
+# Hi, I'm Anurag Sahoo 👋
 
-<!--
-**anuragsahoo1/anuragsahoo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Analyst | SQL | Snowflake | Tableau | AWS**
 
-Here are some ideas to get you started:
+Experienced in analyzing large datasets and building analytics pipelines to generate actionable business insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+* Lead Engineer at TPSODL
+* Former Data Analyst Intern at HighRadius
+* Experience analyzing millions of transaction records using SQL and Snowflake
+* Strong background in data analytics, visualization, and analytics engineering workflows
+
+---
+
+## Tech Stack
+
+**Data & Analytics**
+SQL • Snowflake • Tableau • dbt • Excel • Python
+
+**Data Infrastructure**
+AWS S3 • Airflow • RHEL Linux
+
+---
+
+## Featured Analytics Projects
+
+### Instacart Customer Behavior Analytics
+
+Built an end-to-end analytics pipeline to analyze customer ordering behavior, product demand trends, and retention patterns using the Instacart dataset. The project demonstrates how modern data tools transform raw data into actionable business insights.
+
+**Tech Stack:**
+AWS S3 • Snowflake • dbt • Airflow • Tableau • SQL
+
+---
+
+### FinTech Payments Analytics Platform
+
+Developed an end-to-end analytics engineering workflow that ingests raw payment transaction data into Snowflake, transforms it using dbt models, and delivers KPI-driven executive dashboards in Tableau for financial performance monitoring.
+
+**Tech Stack:**
+SQL • Snowflake • dbt • AWS S3 • Tableau • Analytics Engineering
+
+---
+
+### GLPI IT Operations Analytics
+
+Created SQL-driven analytics on GLPI ITSM data to monitor SLA compliance, ticket trends, backlog aging, and operational KPIs. The project improves visibility into IT service performance and supports data-driven operational decision-making.
+
+**Tech Stack:**
+SQL • MariaDB • RHEL • Data Analysis • KPI Design • SLA Metrics • Operational Reporting
+
+---
+
+## Connect With Me
+
+* LinkedIn
+* Portfolio Website
