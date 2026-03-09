@@ -4,9 +4,9 @@
 
 Experienced in analyzing large datasets and building analytics pipelines that transform raw data into actionable business insights.
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=anuragsahoo1&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragsahoo1&layout=compact&theme=tokyonight" height="170"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anuragsahoo1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragsahoo1&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
