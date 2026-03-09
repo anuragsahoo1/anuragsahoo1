@@ -1,4 +1,7 @@
 # Hi, I'm Anurag Sahoo 👋
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anuragsahoo1&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuragsahoo1&layout=compact)
 
 **Data Analyst | SQL | Snowflake | Tableau | AWS**
 
